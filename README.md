@@ -8,7 +8,14 @@ The file should also include an integer on the first line which should indicate 
 It should be noted that the duration can be any number less than 60, but after 60 minutes the duration must be in multiples of 60 in order to find the correct possible meeting times. 
 ex.) 60, 120, 180.
 
-Here is an example of a valid input file:
+
+
+
+Using an arraylist of tuples, the program uses a two-pointer method to compare the times and assuming there are times where a meeting can occur, will output these times. Otherwise, the program will output a line explaining that there were no possible meeting times found.
+The searching portion of this program runs in linear time. 
+
+
+View this readme in raw foirmat in order to see a valid inp
 30
 05:30-06:30
 09:00-10:00
@@ -21,8 +28,4 @@ Here is an example of a valid input file:
 05:00-07:00
 10:00-11:00
 10:30-13:00
-14:00-18:00
-
-
-Using an arraylist of tuples, the program uses a two-pointer method to compare the times and assuming there are times where a meeting can occur, will output these times. Otherwise, the program will output a line explaining that there were no possible meeting times found.
-The searching portion of this program runs in linear time. 
+14:00-18:00ut file:
