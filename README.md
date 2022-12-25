@@ -8,14 +8,15 @@ The file should also include an integer on the first line which should indicate 
 It should be noted that the duration can be any number less than 60, but after 60 minutes the duration must be in multiples of 60 in order to find the correct possible meeting times. 
 ex.) 60, 120, 180.
 
-Here is an example of a *valid* input file:
+Here is an example of a valid input file:
 30
 05:30-06:30
 09:00-10:00
 09:45-10:30
 11:00-12:00
-13:00-15:00
+
 ====
+
 04:00-04:30
 05:00-07:00
 10:00-11:00
