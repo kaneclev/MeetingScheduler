@@ -15,7 +15,7 @@ Using an arraylist of tuples, the program uses a two-pointer method to compare t
 The searching portion of this program runs in linear time. 
 
 
-View this readme in raw foirmat in order to see a valid input:
+View this readme in raw foirmat in order to see a valid input: 
 
 30
 05:30-06:30
