@@ -29,4 +29,4 @@ View this readme in raw foirmat in order to see a valid input:
 05:00-07:00
 10:00-11:00
 10:30-13:00
-14:00-18:00ut file:
+14:00-18:00
